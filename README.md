@@ -20,3 +20,4 @@ The analysis results are summarized as follows:
 3. High volume, low margin: While Staples have the most orders (876) with almost 43% of the total products ordered, they likely have a lower profit margin compared to the Apple Smart phones.
 4. New York City a top performer: New York being the city with the highest sales(3417) and orders demonstrates the importance of this market.
 Sales on the rise: The increasing sales trend over time is a positive indicator for the company's growth.
+
